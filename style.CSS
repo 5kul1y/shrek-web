@@ -2,7 +2,6 @@
 { 
     margin: 0px;
     padding: 0px;
-    transition: all 1s ease;
 }
 
 body
@@ -53,6 +52,7 @@ body
     padding: 30px;
     min-width: 300px;
     max-width: 100%;
+    transition: all 4s ease 1s;
 }
 
 #shrek-image-1
