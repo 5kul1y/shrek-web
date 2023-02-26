@@ -95,19 +95,21 @@ body
 
 #level-3
 {
-    margin-bottom: 75px;
+    margin-bottom: 75x;
 }
 
 #text-3
 {
     text-align: center;
     background-color: rgb(57, 56, 54);
+    text-align: center;
+    padding: 30px;
+    margin-bottom: 30px;
     margin-top: 200px;
-    margin-left: 450px;
-    margin-right: 450px;
-    margin-bottom: 50px;
+    margin-left: 350px;
+    margin-right: 350px;
     font-family: Arial, Helvetica, sans-serif;
-   font-size: 50px;
+    font-size: 50px;
 }
 
 #shrek-video-1 
@@ -115,6 +117,6 @@ body
     width: 800px;
     margin-top: 50px;
     display: block;
-    margin: 0 auto;  
+    margin: 0 auto;
 }
 
