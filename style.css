@@ -27,8 +27,6 @@ body
     font-weight: bold;
     color: rgb(27, 118, 0);
     background-color: rgb(56, 56, 56);
-    
-    min-width: 700px;
 }
 
 /*----------------------------------------------------------*/
@@ -41,16 +39,13 @@ body
     margin-right: 50px;
     margin-bottom: auto;
     padding: 30px;
-
-    min-width: 500px;
 }
 
 
 #shrek-image-1
 {
-    width: 700px;
+    width: 90%;
     margin-top: 160px;
-    margin-right: 0px;
 }
 
 
@@ -60,19 +55,19 @@ body
 #text-2
 {
     background-color: rgb(57, 56, 54);
-    margin-left: 50px;
+    margin-left: 10px;
     margin-top: 260px;
-    margin-right: 50px;
-    margin-bottom: auto;
+    margin-bottom: 100px;
     padding: 30px;
 }
 
 #shrek-image-2
 {
-    width: 100%;
+    width: 90%;
     height: auto;
-    margin-top: 350px;
-    margin-left: 50px;
+    margin-top: 300px;
+    margin-left: 20px;
+    margin-right: 20px;
     margin-bottom: auto;
 }
                               
@@ -80,21 +75,16 @@ body
 
 #text-3
 {
-    text-align: center;
+    font-weight: bold;
     background-color: rgb(57, 56, 54);
-    text-align: center;
-    padding: 30px;
-    margin-bottom: 30px;
-    margin-top: 200px;
-    margin-left: 350px;
-    margin-right: 350px;
+    color: rgb(27, 118, 0);
     font-family: Arial, Helvetica, sans-serif;
     font-size: 50px;
 }
 
-#shrek-video-1 
+#shrek-video-1
 {
-    width: 800px;
+    width: 80%;
     margin-top: 50px;
     display: block;
     margin: 0 auto;
